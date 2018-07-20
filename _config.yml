@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: HyG
 email: gaohaoyang126@126.com
 description: 浩阳的博客 前端爱好者
@@ -21,3 +21,6 @@ markdown: kramdown
 # highlighter: pygments
 # highlighter: rouge
 # highlighter: false
+markdown: kramdown
+kramdown:
+    input: GFM
