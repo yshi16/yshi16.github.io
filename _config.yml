@@ -21,6 +21,3 @@ markdown: kramdown
 # highlighter: pygments
 # highlighter: rouge
 # highlighter: false
-markdown: kramdown
-kramdown:
-    input: GFM
